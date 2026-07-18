@@ -1,5 +1,8 @@
 # PHP Database Operations with PDO (PHP Data Objects)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/ahmadtsanims/PHP-PDO-PHP-Data-Objects-?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ahmadtsanims/PHP-PDO-PHP-Data-Objects-?style=for-the-badge)
+
 Repository ini berisi kumpulan latihan dasar dan implementasi mini-project untuk berinteraksi dengan database MySQL menggunakan **PDO (PHP Data Objects)**. Proyek ini mencakup penerapan *Prepared Statements*, pengelolaan *Database Transactions*, hingga pembuatan aplikasi CRUD sederhana secara aman.
 
 ---
